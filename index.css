@@ -112,3 +112,20 @@ label {
 .res > p {
 text-align: center;
 }
+
+#modeChange {
+   margin-bottom: 10px;
+}
+
+.light-mode-back {
+    background-color: white;
+}
+.light-mode-card {
+    background-color: bisque;
+}
+.dark-mode-back {
+    background-color: grey;
+}
+.dark-mode-card {
+    background-color: #88ba86;
+}
